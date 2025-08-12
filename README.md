@@ -35,16 +35,16 @@ I'm a **final year BTech student in Artificial Intelligence** and a passionate *
 
 ## 🚩Projects
 
-### [Voice-Assistant](https://github.com/Eswar0-tech/voice-assistant)  
+- ### [Voice-Assistant](https://github.com/Eswar0-tech/voice-assistant)  
 A smart voice-activated assistant built using Python and AI, capable of understanding natural language commands, performing tasks, and integrating with various APIs for a seamless user experience.
 
 ---
 
 ## 📫 Connect with Me
 
-### GitHub: www.github.com/Eswar0-tech)
-### Email: eswarsai8888@gmail.com
-### LinkedIn: www.linkedin.com/in/eswarsai88818
+- ### GitHub: www.github.com/Eswar0-tech)
+- ### Email: eswarsai8888@gmail.com
+- ### LinkedIn: www.linkedin.com/in/eswarsai88818
 
 ---
 
