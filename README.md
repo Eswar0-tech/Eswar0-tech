@@ -54,4 +54,4 @@ A smart voice-activated assistant built using Python and AI, capable of understa
 
 ---
 
-![Eswar0-tech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eswar0-tech&show_icons=true&theme=radical)
+
