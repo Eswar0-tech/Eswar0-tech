@@ -3,7 +3,7 @@
 I'm **Bandaru Eswarsai**
 
 # 💫 About Me:
-🔭 I'm currently working on AI-powered web apps & building my developer portfolio<br>👯 I'm looking to collaborate on full-stack projects with fellow freshers<br>🤝 I'm looking for help for landing my first job as a Tech Professional<br>🌱 I'm currently learning Python, Django, PySpark, SQL, Excel, Power BI & Tableau<br>💬 Ask me about My Projects<br>⚡ Fun fact I can debug code for hours but find the bug was a missing comma 😅
+🔭 I'm currently working on AI-powered web apps & building my developer portfolio<br>👯 I'm looking to collaborate on full-stack projects with fellow freshers<br>🤝 I'm looking for help with landing my first job as a Tech Professional<br>🌱 I'm currently learning Python, Django, PySpark, SQL, Excel, Power BI & Tableau<br>💬 Ask me about My Projects<br>⚡ Fun fact I can debug code for hours but find the bug was a missing comma 😅
 
 
 ## 🌐 Socials:
